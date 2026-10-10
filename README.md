@@ -1,16 +1,33 @@
-## Hi there 👋
+# AALabs
 
-<!--
-**aalabsdev/aalabsdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Independent Technology & Software Development
 
-Here are some ideas to get you started:
+Exploring ideas, engineering solutions, and building useful technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an independent developer interested in creating practical software and exploring emerging technologies.
+
+### Areas of Interest
+
+- 💻 Software Engineering & Web Development
+- 🤖 Artificial Intelligence
+- ⛓️ Web3 & Blockchain
+- 🛠️ Building practical digital solutions
+
+### Current Focus
+
+- Strengthening my software engineering foundations
+- Building web applications and developer tools
+- Exploring AI and blockchain development
+- Developing projects that solve real problems
+
+### Technologies
+
+Java · JavaScript · TypeScript · Python · SQL
+
+### Connect
+
+- GitHub: [@aalabsdev](https://github.com/aalabsdev)
+
+---
+
+*Building with curiosity. Engineering with purpose.*
